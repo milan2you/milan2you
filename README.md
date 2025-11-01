@@ -31,7 +31,7 @@ I am a **Software Engineer** passionate about solving real-world problems with *
 ---
 
 ## 🎓 **Education**  
-- **Master of Information Technology (MIT)** – *Jan 2023 – Jun 2025*  
+- **Master of Information Technology (MIT)** – *Jan 2023 – Jun 2026(Reading)*  
   *University of Colombo School of Computing*  
 - **Bachelor of Information Technology (BIT)** – *Jan 2015 – Sep 2021*  
   *University of Colombo School of Computing*  
